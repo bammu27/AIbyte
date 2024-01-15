@@ -1,4 +1,4 @@
-baseURL = ""  
+baseURL = "https://bammu27.github.io/AIbyte/"  
 languageCode = "en-us"
 title = "AIByte"
 theme = "PaperMod"
