@@ -1,0 +1,30 @@
+baseURL = ""  
+languageCode = "en-us"
+title = "AIByte"
+theme = "PaperMod"
+
+[params]
+    ShowBreadCrumbs = true
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+
+    [params.homeInfoParams]
+    Title = "Byte Brilliance: AI Insights"
+    Content = "Unleashing Tomorrow: Explore the Wonders of AI Today with Byte Brilliance. Your Gateway to Intelligent Insights, Cutting-Edge Tech, and the Future of Innovation!"
+
+
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 1
+
+[[menu.main]]
+name = "tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "archives"
+url = "/archives/"
+weight = 3
