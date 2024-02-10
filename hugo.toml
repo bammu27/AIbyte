@@ -1,6 +1,6 @@
 baseURL = "https://aibyte2.netlify.app/"  
 languageCode = "en-us"
-title = "AIByte"
+title = "ByteBliss"
 theme = "PaperMod"
 
 [params]
@@ -9,8 +9,8 @@ theme = "PaperMod"
     ShowPostNavLinks = true
 
     [params.homeInfoParams]
-    Title = "Byte Brilliance: AI Insights"
-    Content = "Unleashing Tomorrow: Explore the Wonders of AI Today with Byte Brilliance. Your Gateway to Intelligent Insights, Cutting-Edge Tech, and the Future of Innovation!"
+    Title = "Unlocking Digital Delights: ByteBliss - Your Gateway to Tech Wonderment!"
+    Content = ""
 
 
 
